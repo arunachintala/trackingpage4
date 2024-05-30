@@ -1,0 +1,15 @@
+.input-text {
+    color: #D9D9D9;
+    font-family: 'Poppins';
+    font-weight: '400';
+    font-size: '14px';
+    line-height: '21px';
+    width: 476px;
+    height: 40px;
+    border-radius: 6px;
+    border: 1px solid #D9D9D9;
+}
+
+.input-text ::placeholder {
+    padding-left: '10px';
+}
